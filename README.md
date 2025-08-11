@@ -44,29 +44,6 @@ A **modern Flutter application** for booking and managing car wash services with
 
 ---
 
-## ✨ Features
-
-- 🧼 **Book Car Wash Services** — Choose a location, time, and preferred package.
-- 📍 **Track in Real-Time** — See where the assigned worker is.
-- 💳 **Online Payment** — Secure payments via Stripe/PayPal.
-- 📢 **Push Notifications** — Get updates for booking confirmation, arrival, and completion.
-- ⭐ **Ratings & Reviews** — Share your feedback after service.
-- 🛠 **BLoC State Management** — Clean and scalable architecture.
-
----
-
-## 🛠 Tech Stack
-
-- **Frontend**: Flutter (Dart)
-- **State Management**: BLoC Pattern
-- **Backend**: Node.js + Express + Sequelize
-- **Database**: MySQL
-- **Realtime**: Socket.IO
-- **Payments**: Stripe / PayPal API
-- **Push Notifications**: Firebase Cloud Messaging (FCM)
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone the repository**
